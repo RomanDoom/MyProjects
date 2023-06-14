@@ -24,3 +24,7 @@
 - Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math`` , ``numpy``, ``scipy.stats``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``seaborn``
+
+
+### :fire: Моя Статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
