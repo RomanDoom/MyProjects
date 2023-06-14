@@ -5,6 +5,7 @@
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=RomanDoom&style=flat-square&color=blue" alt=""/>
+ </div>
   
   
 ## Обо мне 
