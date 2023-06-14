@@ -15,7 +15,9 @@
 ## Навыки и технологии
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/matlab/matlab-original.svg" title="Matab"  alt="Matab" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matab"  alt="matab" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="pandas"  alt="pandas" width="40" height="40"/>&nbsp;
 </div>
 
 - Инструменты анализа данных: ``SQL``, ``Excel``, ``Python``: 
