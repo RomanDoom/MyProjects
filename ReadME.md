@@ -20,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="pandas"  alt="pandas" width="40" height="40"/>&nbsp;
 </div>
 
+   
+
 - Инструменты анализа данных: ``SQL``, ``Excel``, ``Python``: 
 - Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math`` , ``numpy``, ``scipy.stats``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
@@ -28,3 +30,18 @@
 
 ### :fire: Моя Статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanDoom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Проект №1
+**Задачи:**
+1. Определить, что является юнитом в нашей экономике.
+2. Посчитать юнит-экономику продукта и предложить сценарий по настройке параметров для выхода на 25%-ную маржинальность.
+3. Выбрать оптимальный вариант расчета Retention. 
+4. Собрать визуализации основных бизнес-показателей.
+5. Исследовать данные о пользователях и их поведении.
+
+> <a href="https://github.com/RomanDoom/MyProjects/tree/main/Project%E2%84%961"">Ссылка на проект</a>
+
+<ol>
+  <li>Динамика Retention отрицательная - заметный отток пользователей</li>
+  <li>Итог №2</li>
+</ol>
