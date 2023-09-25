@@ -1,5 +1,5 @@
 # Dashboard
-![Image alt](https://github.com/RomanDoom/MyProjects/blob/main/Project№7/Dash.png)
+![Image alt](https://github.com/RomanDoom/MyProjects/blob/main/Project№7/Dash2.png)
 
 ## Техническое задание
 ★★★★	
